@@ -1,54 +1,40 @@
 
 
-
 ul {
-   list-style-type: none;
-
-   margin: 0;
-
-   padding: 0;
-
-   overflow: hidden;
-
-   background-color: #333;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
 }
 
 li {
-   float: left;
+    float: left;
 }
 
 li a {
-   display: block;
-
-   color: white;
-
-   text-align: center;
-
-   padding: 14px 16px;
-
-   text-decoration: none;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
 }
 
 li a:hover:not(.active) {
-   background-color: #111;
+    background-color: #111;
 }
 
-.active {
-
-   background-color: #4CAF50;
-}
-
- background-image: url('https://www.beautycolorcode.com/b0bec5-2880x1800.png');
+body {
+    background-color: lavender;
 }
 
 h1 {
-
- color: darkslateblue;
-
+  color: Ivory;
 }
 
 h3 {
-
- color: darkmagenta;
-
+  color: Ivory;
+}
+div.example1{
+  background-color:#34366E;
 }
