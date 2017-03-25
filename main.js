@@ -92,10 +92,10 @@ function getVote(int) {
 <body>
 
 <div id="poll">
-<h3>Do you like PHP and AJAX so far?</h3>
+<h3>Is Phan real?</h3>
 <form>
 Yes:
-<input type="radio" name="vote" value="0" onclick="getVote(this.value)">
+<input type="text" name="vote" value="0" onclick="getVote(this.value)">
 <br>No:
 <input type="radio" name="vote" value="1" onclick="getVote(this.value)">
 </form>
