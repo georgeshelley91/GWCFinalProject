@@ -3,9 +3,11 @@ body {
 }
 h1 {
  color: #483d8b;
+ text-indent: 30px;
 }
 h3 {
  color: darkmagenta;
+ text-indent: 30px;
 }
 h4{
 color: black;
