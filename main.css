@@ -10,9 +10,4 @@ h4{
 color: black;
     text-decoration: underline;
 }
-.input[type=text] {
-    width: 130px;
-    -webkit-transition: width 0.4s ease-in-out;
-    transition: width 0.4s ease-in-out;
-}
 
