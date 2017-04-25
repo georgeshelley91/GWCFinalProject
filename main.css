@@ -7,13 +7,10 @@ h1 {
 }
 h3 {
  color: darkmagenta;
- text-indent: 30px;
+ text-indent: 15px;
 }
 h4{
 color: black;
 text-decoration: underline;
 text-indent: 15px;
-}
-nav{
-color:  #AC3659;
 }
